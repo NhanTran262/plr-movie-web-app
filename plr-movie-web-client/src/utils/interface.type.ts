@@ -13,6 +13,7 @@ export interface LayoutProps {
 
 export interface MenuItem {
   icon: React.ReactNode;
+  iconActive: React.ReactNode;
   title: string;
   url: string;
   active: boolean;

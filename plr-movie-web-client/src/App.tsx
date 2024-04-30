@@ -16,7 +16,6 @@ function App() {
             <ToastContainer autoClose={3000} />
           </BrowserRouter>
         </ThemeProvider>
-
       </Provider>
     </>
   )
