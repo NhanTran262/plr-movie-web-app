@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: plr-movie-web-service
+  profiles:
+    active: local
+  #JPA Properties
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+        format_sql: true
+    hibernate:
+      ddl-auto: none
+    show-sql: false
+app:
+  #Comma separated list of allowed origins
+  cors:
+    allowedOrigins: http://localhost:3000/
+  #Jwt token
+  jwtSecret: fsdfhsdfghhjk8293y49283uiwdhgf78342fuefbisugrf23892323rrfeuwi73232tneugfhw67
+  jwtExpirationInMs: 259200000
+
+
+
+

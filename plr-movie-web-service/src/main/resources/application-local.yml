@@ -1,0 +1,10 @@
+spring:
+#Database
+  datasource:
+    url: jdbc:mysql://localhost:3306/plr-movie-web
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+#Flyway
+  flyway:
+    enabled: true
