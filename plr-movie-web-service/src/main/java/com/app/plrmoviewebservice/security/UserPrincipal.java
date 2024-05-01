@@ -1,6 +1,6 @@
 package com.app.plrmoviewebservice.security;
 
-import com.app.plrmoviewebservice.model.entity.User;
+import com.app.plrmoviewebservice.domain.entity.User;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

@@ -1,6 +1,6 @@
 package com.app.plrmoviewebservice.repository;
 
-import com.app.plrmoviewebservice.model.entity.User;
+import com.app.plrmoviewebservice.domain.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

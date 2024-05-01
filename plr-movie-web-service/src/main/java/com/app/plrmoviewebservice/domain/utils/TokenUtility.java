@@ -1,4 +1,4 @@
-package com.app.plrmoviewebservice.model.utils;
+package com.app.plrmoviewebservice.domain.utils;
 
 import com.app.plrmoviewebservice.constant.TokenConstant;
 import io.jsonwebtoken.Claims;

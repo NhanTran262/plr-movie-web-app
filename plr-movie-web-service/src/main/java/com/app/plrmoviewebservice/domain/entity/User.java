@@ -1,4 +1,4 @@
-package com.app.plrmoviewebservice.model.entity;
+package com.app.plrmoviewebservice.domain.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.Column;

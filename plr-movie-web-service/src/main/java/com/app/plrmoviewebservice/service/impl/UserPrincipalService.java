@@ -1,6 +1,6 @@
 package com.app.plrmoviewebservice.service.impl;
 
-import com.app.plrmoviewebservice.model.entity.User;
+import com.app.plrmoviewebservice.domain.entity.User;
 import com.app.plrmoviewebservice.repository.IUserRepository;
 import com.app.plrmoviewebservice.security.UserPrincipal;
 import com.app.plrmoviewebservice.service.IUserPrincipalService;

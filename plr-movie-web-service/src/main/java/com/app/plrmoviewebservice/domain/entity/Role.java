@@ -1,4 +1,4 @@
-package com.app.plrmoviewebservice.model.entity;
+package com.app.plrmoviewebservice.domain.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

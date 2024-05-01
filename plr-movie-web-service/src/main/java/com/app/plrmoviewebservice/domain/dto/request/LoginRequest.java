@@ -1,4 +1,4 @@
-package com.app.plrmoviewebservice.model.dto.request;
+package com.app.plrmoviewebservice.domain.dto.request;
 
 import lombok.Data;
 

@@ -1,6 +1,6 @@
-package com.app.plrmoviewebservice.model.utils;
+package com.app.plrmoviewebservice.domain.utils;
 
-import com.app.plrmoviewebservice.model.entity.User;
+import com.app.plrmoviewebservice.domain.entity.User;
 import com.app.plrmoviewebservice.repository.IUserRepository;
 import lombok.AllArgsConstructor;
 import org.slf4j.Logger;

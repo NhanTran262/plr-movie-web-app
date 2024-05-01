@@ -1,6 +1,6 @@
 package com.app.plrmoviewebservice.security;
 
-import com.app.plrmoviewebservice.model.utils.TokenUtility;
+import com.app.plrmoviewebservice.domain.utils.TokenUtility;
 import com.app.plrmoviewebservice.service.IUserPrincipalService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
